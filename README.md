@@ -22,7 +22,8 @@ This is a solution to the https://www.frontendmentor.io/challenges/profile-card-
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot1.png)
+![](./screenshot2.png)
 
 
 ### Links
